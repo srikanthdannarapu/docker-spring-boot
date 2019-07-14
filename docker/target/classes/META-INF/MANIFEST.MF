@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: docker
+Implementation-Version: 1.0.0.RELEASE
+Built-By: sreekanth
+Implementation-Vendor-Id: com.rest.webservices
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/docker
+Created-By: Maven Integration for Eclipse
+
